@@ -10,13 +10,13 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://telegra.ph/file/c6f6d447f2c76e3795a10.jpg" alt="Img" width="400" height="400"/>
+<img src="https://telegra.ph/file/75c78969644bc360fe93f.jpg" alt="Img" width="400" height="400"/>
 </p>
  <p align="center">
-<a href="#"><img title="JAROT OFFC" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="KHASAN DEV.01" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://wa.me/6285850539404"><img title="Author" src="https://img.shields.io/badge/Author-JAROT OFFC/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/6285641142178"><img title="Author" src="https://img.shields.io/badge/Author-JAROT OFFC/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 <a href="https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=Youtube"></a>
 <a href="https://instagram.com/Jarotr_"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=Instagram"></a>
 <a href="https://chat.whatsapp.com/LKxOImbU62e9sgai6Ow2Ef"><img title="Group Jarot offc" src="https://img.shields.io/badge/Group-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=WhatsApp"></a>
@@ -31,7 +31,7 @@ Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make 
 </p>
 
 
-```-  Hi, I’m @MR.JAROT OFFC```
+```-  Hi, I’m @KHASAN DEV.01```
 
 ```-  I’m interested in ...```
 
